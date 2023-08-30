@@ -20,3 +20,5 @@ Instalacion de Spring en Eclipse
 5- Comprovamos que funcione:
 <img width="445" alt="image" src="https://github.com/rcarcole/rcs-fe-gc-Spring-08-2023/assets/55997367/526eab9f-2653-437f-b02b-a0042a25c981">
 
+6- Ejemplo de la creación de un endpoint:
+<img width="871" alt="image" src="https://github.com/rcarcole/rcs-fe-gc-Spring-08-2023/assets/55997367/bbc4452e-88c3-4a8f-aae6-f4e42445eb98">
