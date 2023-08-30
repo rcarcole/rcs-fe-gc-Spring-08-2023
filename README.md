@@ -9,11 +9,11 @@ Instalacion de Spring en Eclipse
 <img width="642" alt="image" src="https://github.com/rcarcole/rcs-fe-gc-Spring-08-2023/assets/55997367/93ffb708-46c0-4322-ade5-49d1e7785a3f">
 
 
-3- Dependencias del proyecto maven, version 17, war, java
+3- Dependencias del proyecto maven, version 17, war, java:
 <img width="431" alt="image" src="https://github.com/rcarcole/rcs-fe-gc-Spring-08-2023/assets/55997367/32ec9ab3-d7dd-431d-913b-0db0b9e02aa1">
 
 
-4- Una vez hecha la instalación, le damos a run as -> spring boot app
+4- Una vez hecha la instalación, le damos a run as -> spring boot app:
 <img width="1906" alt="image" src="https://github.com/rcarcole/rcs-fe-gc-Spring-08-2023/assets/55997367/7b498901-eea6-4e3a-bba4-95e60874c07a">
 
 
