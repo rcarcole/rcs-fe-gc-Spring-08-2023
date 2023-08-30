@@ -18,3 +18,6 @@ Instalación de Spring en Eclipse
 
 6- Ejemplo de la creación de un endpoint:<br><br>
 ![Ejemplo de endpoint](https://github.com/rcarcole/rcs-fe-gc-Spring-08-2023/assets/55997367/bbc4452e-88c3-4a8f-aae6-f4e42445eb98.png)
+
+7- Creación de proyecto nuevo en "Type: Grandle - Groovy", mismas configuraciones que hicimos anteriormente con Maven
+<img width="432" alt="image" src="https://github.com/rcarcole/rcs-fe-gc-Spring-08-2023/assets/55997367/e55dec66-161f-48f3-b4cb-00a1e18357a3">
